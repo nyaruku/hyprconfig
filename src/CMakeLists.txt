@@ -1,3 +1,1 @@
-add_executable(hyprconfig main.cpp)
-add_subdirectory(includes)
-target_link_libraries(hyprconfig includes)
+add_executable(hyprconfig-bin main.cpp)
